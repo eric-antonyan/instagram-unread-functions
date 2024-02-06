@@ -1,0 +1,2 @@
+LEFT(string, count);
+strlen('string') // 6
